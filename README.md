@@ -11,9 +11,11 @@ It will automatically copy the full format for scraping the a website. Like impo
 Make the requests headers a json. 
 
 Like:-
-input: string = ''' x: y
+```
+input: 
+string = ''' x: y
 cookie: sdfhsd,
-user-agent : shsdf'''
+user-agent : shsdf '''
 
 
 output:
