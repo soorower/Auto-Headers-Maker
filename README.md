@@ -14,7 +14,7 @@ Like:-
 ```
 input: 
 string = ''' x: y
-cookie: sdfhsd,
+cookie: sdfhsd
 user-agent : shsdf '''
 
 
